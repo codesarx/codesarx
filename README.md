@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @codesarx
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Computer Science from UoD
 
 <!---
 codesarx/codesarx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
